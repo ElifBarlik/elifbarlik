@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elif Barlık</h1>
 <h3 align="center">Software Engineering student on Kırklareli University, Turkey</h3>
 
-- 🌱 I’m currently learning **artificial intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence, Full Stack Development**
 
 - 📫 How to reach me **elifbarlik4@gmail.com**
 
