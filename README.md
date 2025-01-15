@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elif Barlık</h1>
 <h3 align="center">Software Engineering student on Kırklareli University, Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elifbarlik&label=Profile%20views&color=0e75b6&style=flat" alt="elifbarlik" /> </p>
-
 - 🌱 I’m currently learning **artificial intelligence**
 
 - 📫 How to reach me **elifbarlik4@gmail.com**
